@@ -1,5 +1,5 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
+title: Abílio Júnior
+description: Site destinado a compartilhamento de artigos sobre tecnologias que busco descobrir.
+show_downloads: false
 google_analytics:
-theme: jekyll-theme-hacker
+theme: jekyll-theme-leap-day
